@@ -95,6 +95,8 @@ Kontribusi lewat [*pull request*](https://medium.com/@ahmadariffaizin/cara-pull-
 - [Wegodev](https://www.wegodev.com)
   - HTML/CSS, JavaScript, PHP, Nodejs, React, SQL, dll
   - sebagian materi berbayar
+- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
+  - Laravel, PHP, dll
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
   - bahasa pemrograman visual berbasis balok
